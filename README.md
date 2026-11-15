@@ -1,3 +1,29 @@
+# clinviro
+
+[English](#english) | [简体中文](#简体中文)
+
+---
+
+## English
+
+An open source Laboratory Information Management System for HIV genotypic resistance test for laboratories
+
+> This repository is a fork. For full documentation, see the upstream repository.
+
+[简体中文](#简体中文)
+
+---
+
+## 简体中文
+
+面向实验室 HIV 基因型耐药检测的开源实验室信息管理系统。
+
+> 本项目为 fork，详细文档请以原仓库为准。
+
+[English](#english)
+
+---
+
 ClinViro
 ========
 
